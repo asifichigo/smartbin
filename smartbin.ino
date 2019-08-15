@@ -5,8 +5,8 @@
 #include <FirebaseArduino.h>
 
 
-#define FIREBASE_HOST "lifeeasy-c8ce6.firebaseio.com"
-#define FIREBASE_AUTH "jrH1NKjlN8w8e3FBDXfu5XDN1EFWdm94fXlGJHY7"
+#define FIREBASE_HOST "xxxxxxxxxxxxxxxx.firebaseio.com"
+#define FIREBASE_AUTH "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 StaticJsonBuffer<200> jsonBuffer; //Set buffer for json object to be created
 JsonObject& bin = jsonBuffer.createObject(); // create json object utilizing previously defined buffer
