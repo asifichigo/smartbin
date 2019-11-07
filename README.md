@@ -41,4 +41,3 @@ Features
   8. Put the setup in an Empty bin as it has to determine height. Reset NodeMCU.
   9. Observe the result in Serial monitor
   
-  // Procedure for mobile application to be uploaded soon.
