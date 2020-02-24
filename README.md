@@ -1,4 +1,4 @@
-# smartbin
+# Smart Bin based on IoT 
 
 
 Problem Statement: 
